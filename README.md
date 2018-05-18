@@ -1,15 +1,11 @@
-Composer Library Template
+Libreary for rss feed
 =========================
+this is a nice little thing i have build. it is to train myself in coding better and optemizing more.
+the features list will be updated when i work on it.
 
-If you are trying to create a new PHP Composer library, whether it will be going to submitted to packagist.org or just in your Github account, this template of files will surely help you make the process a lot easier and faster.
+it is a deddicated libreary for RSS feed reading. or that wil be the case when its done
 
 Features
 --------
-
-* PSR-4 autoloading compliant structure
-* Unit-Testing with PHPUnit
-* Comprehensive Guides and tutorial
-* Easy to use to any framework or even a plain php file
-
-
-I encourage that you put more information on this readme file instead of leaving it as is. See [http://www.darwinbiler.com/designing-and-making-the-readme-file-for-your-github-repository/](How to make a README file) for more info.
+None of yet
+only a config loader and some tests
