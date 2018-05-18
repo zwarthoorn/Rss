@@ -1,0 +1,24 @@
+{
+    "name": "zwarthoorn/rss-feed-reader",
+    "description": "a simple rss feed reader with some configuration options.",
+    "keywords": ["template", "composer", "package","RSS","Config"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Walter Wiesnekker",
+            "email": "walterwiesnekkerw@gmail.com"
+        }
+    ],
+    "type": "library",
+    "require": {
+		"php": ">=7.0"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "^7"
+    },
+	"autoload": {
+        "psr-4": {
+            "Zwarthoorn\\Rss\\": "src/"
+        }
+    }
+}
